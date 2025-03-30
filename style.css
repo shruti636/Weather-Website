@@ -97,7 +97,6 @@ body{
 /* 🔥 Ensure responsiveness with proper scaling */
 @media (max-width: 600px) {
   .search {
-    flex-direction: row;
     gap: 10px;
     align-items: center;
   }
